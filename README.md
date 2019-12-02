@@ -1,0 +1,2 @@
+# Titanic_Machine_Learning
+取用Kaggle鐵達尼號資料對生存率進行分析及預測
